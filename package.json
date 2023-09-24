@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@100mslive/react-sdk": "^0.8.16",
+    "hls.js": "^1.4.12"
+  }
+}
